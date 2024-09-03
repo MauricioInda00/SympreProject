@@ -9,6 +9,6 @@ This application is designed as an interactive learning platform for aspiring pr
 * **Postgres:** To keep the problems and the user's answers inside a database.
 
 ## Installation Instructions
-1. cd api && python3 app.js
+1. cd api && python3 app.py
 2. cd ~/ && npm run dev
 3. Enjoy!
